@@ -78,6 +78,7 @@ const getProductsWithCategory = async() => {
             productCard.innerHTML += `
                 <div class="card m-3" style="width: 100%;">
                     <div class="card-body">
+                    <img class="card-img-top" src="https://picsum.photos/450/300?random=${product.id}" alt="..." />
                         <h5 class="card-title">${product.name}</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
@@ -107,7 +108,7 @@ const getCustomers = async() => {
         data.forEach(customer => {
             mainContainer.innerHTML += `
                 <div class="card m-3" style="width: 18rem;">
-                    <img src="../32-ExpressJS/images/customer.jpg" class="card-img-top" alt="...">
+                    <img class="card-img-top" src="https://picsum.photos/450/300?random=${customer.id}" alt="..." />
                     <div class="card-body">
                         <h5 class="card-title">${customer.firstName} ${customer.lastName}</h5>
                         <p class="card-text">${customer.city} / ${customer.town}</p>

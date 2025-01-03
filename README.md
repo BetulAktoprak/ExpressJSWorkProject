@@ -11,5 +11,5 @@
 *MyBackendApp klasöründe ise fetch ile apiler çekilerek frontend projesi oluşturuldu.*
 
 ![Uygulama Görüntüsü](images/Ekran%20görüntüsü%202025-01-03%20205936.png)
-![Uygulama Görüntüsü](images/Ekran%20görüntüsü%202025-01-03%20205958.png)
-![Uygulama Görüntüsü](images/Ekran%20görüntüsü%202025-01-03%20210015.png)
+![Uygulama Görüntüsü](images/Ekran%20görüntüsü%202025-01-03%20224120.png)
+![Uygulama Görüntüsü](images/Ekran%20görüntüsü%202025-01-03%20224230.png)
